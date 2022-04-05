@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Day2Problem1 {
+public class IfElseProblem1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter number: ");
